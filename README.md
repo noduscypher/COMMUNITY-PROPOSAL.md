@@ -17,7 +17,7 @@ The Reticulum Network is a decentralised communication infrastructure —
 no central servers, no algorithms, no social media dependency.
 It can run over internet, LoRa radio and local networks simultaneously.
 
-Anyone with a compatible app installed — **MeshChatX**, **Sideband**, **NomadNet** —
+Anyone with a compatible app installed — **MeshChatX**, **Sideband**, **NomadNet**, **Columba**, —
 can access pages, receive messages and communicate directly,
 without intermediaries, without tracking, without permission from anyone.
 
